@@ -37,6 +37,9 @@ li a{
     box-shadow: 2px 2px rgba(00, 00, 00, 0.1);
 
 }
+li a:hover{
+    background-color: lightgrey;
+}
 #red-container, #green-container,#yellow-container{    
     height: 100vh;
     width: 100%;
